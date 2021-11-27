@@ -50,7 +50,9 @@ button {
   margin: 0 auto 0;
 }
 
-.list-item__title {
+.list-item__title,
+.list-item__input,
+.new-task__input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
